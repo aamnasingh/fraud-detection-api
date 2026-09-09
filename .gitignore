@@ -1,0 +1,6 @@
+fraud_env/
+creditcard.csv
+predictions.log
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
